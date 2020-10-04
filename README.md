@@ -3,6 +3,8 @@
 
 由1073302完成
 
+    功能:抓取漫畫並且寄送至指定的Line聊天室
+
 運行在Anaconda jupyter notebool上
 
     環境:
